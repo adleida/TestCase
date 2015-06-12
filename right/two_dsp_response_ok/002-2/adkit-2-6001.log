@@ -1,0 +1,9 @@
+2015-06-12T11:59:22 [INFO] root: case_name = /home/tate/project/testcase/right/002-2
+2015-06-12T11:59:22 [INFO] root: send_conf:(pass, None)
+2015-06-12T11:59:22 [INFO] root: reload_conf:(pass, None)
+2015-06-12T11:59:22 [INFO] root: setup:(pass,None)
+2015-06-12T11:59:22 [INFO] root: Count: 1
+2015-06-12T11:59:22 [INFO] root: send_bid:(pass, {'is_test': 0, 'adm': [{'tracking_url': ['http://www.ipinyou.com.cn/tracking/'], 'data': {'text': '国美-天天特价,快速送达,优惠GO到家 by 品友', 'img': 'http://ad-exchange-server/image20121'}, 'click_through_url': ['http://www.ipinyou.com.cn/through/'], 'id': '55541a20ecca2241673041cc'}, {'tracking_url': ['http://www.ddd.com/tracking/'], 'data': {'text': '分众传媒 3C数码哪家强？易迅让你Duang Duang Duang', 'img': 'http://ad-exchange-server/image21121'}, 'click_through_url': ['http://www.ddd.com/through/'], 'id': '55541a20ecca2241673041d5'}, {'tracking_url': ['http://www.ipinyou.com.cn/tracking/'], 'data': {'text': '品友app2 is very good', 'img': 'http://exchange/11002'}, 'click_through_url': ['http://www.ipinyou.com.cn/through/'], 'id': '55541a20ecca2241673041c6'}]})
+2015-06-12T11:59:22 [ERROR] root: Cmp result error
+2015-06-12T11:59:22 [INFO] root: escaped_time 0.0861043930053711's 
+2015-06-12T11:59:22 [INFO] root: /home/tate/project/testcase/right/002-2,1,0.04236412048339844

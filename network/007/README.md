@@ -4,6 +4,8 @@ author: wangguozhu
 datetime: 2015-04-29
 ---
 
+# makesure: true
+
 ## summary
 
 exchange发送dsp-notice,两家dsp,一家竞价成功但是nurl是无效地址

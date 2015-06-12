@@ -4,6 +4,9 @@ author: xiaojian
 datetime: 2015-04-29
 ---
 
+# makesure: false
+# reason: config error
+
 ## summary
 
 一家dsp,发送bid-request失败

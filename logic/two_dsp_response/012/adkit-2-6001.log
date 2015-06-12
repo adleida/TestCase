@@ -1,0 +1,8 @@
+2015-06-12T12:55:25 [INFO] root: case_name = /home/tate/project/testcase/logic/012
+2015-06-12T12:55:26 [INFO] root: send_conf:(pass, None)
+2015-06-12T12:55:26 [INFO] root: reload_conf:(pass, None)
+2015-06-12T12:55:26 [INFO] root: setup:(pass,None)
+2015-06-12T12:55:26 [INFO] root: Count: 1
+2015-06-12T12:55:26 [INFO] root: send_bid:(pass, {'is_test': 0, 'adm': []})
+2015-06-12T12:55:26 [INFO] root: escaped_time 0.0730137825012207's 
+2015-06-12T12:55:26 [INFO] root: /home/tate/project/testcase/logic/012,1,0.03281593322753906

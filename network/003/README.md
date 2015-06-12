@@ -4,6 +4,9 @@ author: wangguozhu
 datetime: 2015-04-29
 ---
 
+# makesure: False
+# reason: config error
+
 ## summary
 
 两家dsp, 110发送成功,111发送失败

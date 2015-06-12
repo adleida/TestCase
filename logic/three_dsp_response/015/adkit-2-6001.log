@@ -1,0 +1,9 @@
+2015-06-12T13:04:15 [INFO] root: case_name = /home/tate/project/testcase/logic/015
+2015-06-12T13:04:15 [INFO] root: send_conf:(pass, None)
+2015-06-12T13:04:15 [INFO] root: reload_conf:(pass, None)
+2015-06-12T13:04:15 [INFO] root: setup:(pass,None)
+2015-06-12T13:04:15 [INFO] root: Count: 1
+2015-06-12T13:04:15 [INFO] root: send_bid:(pass, {'is_test': 0, 'adm': [{'id': '55541a20ecca2241673041cc', 'click_through_url': ['http://www.ipinyou.com.cn/through/'], 'tracking_url': ['http://www.ipinyou.com.cn/tracking/'], 'data': {'text': '国美-天天特价,快速送达,优惠GO到家 by 品友', 'img': 'http://ad-exchange-server/image20121'}}, {'id': '55541a20ecca2241673041c9', 'click_through_url': ['http://www.ipinyou.com.cn/through/'], 'tracking_url': ['http://www.ipinyou.com.cn/tracking/'], 'data': {'text': '下载聚美优品App立马送代金券by品友', 'img': 'http://ad-exchange-server/image20101'}}, {'id': '55541a20ecca2241673041cf', 'click_through_url': ['http://www.ss.com.cn/through/'], 'tracking_url': ['http://www.ipinyou.com.cn/tracking/'], 'data': {'text': '分众传媒下载聚美优品App立马送代金券', 'img': 'http://ad-exchange-server/image21101'}}, {'id': '55541a20ecca2241673041d2', 'click_through_url': ['http://www.ss.com.cn/through/'], 'tracking_url': ['http://www.ipinyou.com.cn/tracking/'], 'data': {'text': '分众传媒app2 is very good', 'img': 'http://exchange/11102'}}]})
+2015-06-12T13:04:15 [ERROR] root: Cmp result error
+2015-06-12T13:04:15 [INFO] root: escaped_time 0.09509062767028809's 
+2015-06-12T13:04:15 [INFO] root: /home/tate/project/testcase/logic/015,1,0.05360913276672363

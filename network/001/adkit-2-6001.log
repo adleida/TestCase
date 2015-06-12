@@ -1,0 +1,16 @@
+2015-06-12T15:41:21 [INFO] root: case_name = /home/tate/project/testcase/network/001
+2015-06-12T15:41:21 [INFO] root: send_conf:(pass, None)
+2015-06-12T15:41:21 [INFO] root: reload_conf:(pass, None)
+2015-06-12T15:41:21 [INFO] root: setup:(pass,None)
+2015-06-12T15:41:21 [INFO] root: Count: 1
+2015-06-12T15:41:21 [INFO] root: send_bid:(pass, {'adm': [], 'is_test': 0})
+2015-06-12T15:41:21 [INFO] root: escaped_time 0.04466962814331055's 
+2015-06-12T15:41:21 [INFO] root: /home/tate/project/testcase/network/001,1,0.00798654556274414
+2015-06-12T17:30:03 [INFO] root: case_name = /home/tate/project/testcase/network/001
+2015-06-12T17:30:03 [INFO] root: send_conf:(pass, None)
+2015-06-12T17:30:03 [INFO] root: reload_conf:(pass, None)
+2015-06-12T17:30:03 [INFO] root: setup:(pass,None)
+2015-06-12T17:30:03 [INFO] root: Count: 1
+2015-06-12T17:30:03 [INFO] root: send_bid:(pass, {'is_test': 0, 'adm': []})
+2015-06-12T17:30:03 [INFO] root: escaped_time 0.03970456123352051's 
+2015-06-12T17:30:03 [INFO] root: /home/tate/project/testcase/network/001,1,0.008164167404174805

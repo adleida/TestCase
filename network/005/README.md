@@ -4,6 +4,9 @@ author: wangguozhu
 datetime: 2015-04-29
 ---
 
+# makesure: false
+# repeat
+
 ## summary
 
 exchange通知sdk端失败

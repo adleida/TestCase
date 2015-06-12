@@ -1,0 +1,8 @@
+2015-06-12T12:13:51 [INFO] root: case_name = /home/tate/project/testcase/right/005-1
+2015-06-12T12:13:51 [INFO] root: send_conf:(pass, None)
+2015-06-12T12:13:51 [INFO] root: reload_conf:(pass, None)
+2015-06-12T12:13:51 [INFO] root: setup:(pass,None)
+2015-06-12T12:13:51 [INFO] root: Count: 1
+2015-06-12T12:13:51 [INFO] root: send_bid:(pass, {'adm': [{'tracking_url': ['http://www.ipinyou.com.cn/tracking/'], 'data': {'text': '国美-天天特价,快速送达,优惠GO到家 by 品友', 'img': 'http://ad-exchange-server/image20121'}, 'id': '55541a20ecca2241673041cc'}, {'tracking_url': ['http://www.ipinyou.com.cn/tracking/'], 'data': {'text': '品友app2 is very good', 'img': 'http://exchange/11002'}, 'id': '55541a20ecca2241673041c6'}], 'is_test': 0})
+2015-06-12T12:13:51 [INFO] root: escaped_time 0.059575557708740234's 
+2015-06-12T12:13:51 [INFO] root: /home/tate/project/testcase/right/005-1,1,0.02375626564025879

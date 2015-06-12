@@ -4,6 +4,9 @@ author: wangguozhu
 datetime: 2015-04-29
 ---
 
+# makesure: false
+# reason: exchange response success
+
 ## summary
 
 exchange返回client-response失败

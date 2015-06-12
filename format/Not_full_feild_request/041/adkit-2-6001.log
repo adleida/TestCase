@@ -1,0 +1,8 @@
+2015-06-12T16:53:46 [INFO] root: case_name = /home/tate/project/testcase/format/041
+2015-06-12T16:53:46 [INFO] root: send_conf:(pass, None)
+2015-06-12T16:53:46 [INFO] root: reload_conf:(pass, None)
+2015-06-12T16:53:46 [INFO] root: setup:(pass,None)
+2015-06-12T16:53:46 [INFO] root: Count: 1
+2015-06-12T16:53:46 [INFO] root: send_bid:(pass, {'is_test': 0, 'adm': [], 'error': {'detail': "json syntax error('sdk' is a required property)", 'code': 1}})
+2015-06-12T16:53:46 [INFO] root: escaped_time 0.0447239875793457's 
+2015-06-12T16:53:46 [INFO] root: /home/tate/project/testcase/format/041,1,0.004553318023681641

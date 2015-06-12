@@ -1,0 +1,8 @@
+2015-06-12T12:33:07 [INFO] root: case_name = /home/tate/project/testcase/right/009
+2015-06-12T12:33:07 [INFO] root: send_conf:(pass, None)
+2015-06-12T12:33:07 [INFO] root: reload_conf:(pass, None)
+2015-06-12T12:33:07 [INFO] root: setup:(pass,None)
+2015-06-12T12:33:07 [INFO] root: Count: 1
+2015-06-12T12:33:07 [INFO] root: send_bid:(pass, {'adm': [{'tracking_url': [], 'click_through_url': ['http://www.ipingyou.com.cn/through/'], 'id': '55541a20ecca2241673041c6', 'data': {'img': 'http://exchange/11002', 'text': '品友app2 is very good'}}, {'tracking_url': [], 'click_through_url': ['http://www.ipingyou.com.cn/through/'], 'id': '55541a20ecca2241673041c9', 'data': {'img': 'http://ad-exchange-server/image20101', 'text': '下载聚美优品App立马送代金券by品友'}}], 'is_test': 0})
+2015-06-12T12:33:07 [INFO] root: escaped_time 0.07046318054199219's 
+2015-06-12T12:33:07 [INFO] root: /home/tate/project/testcase/right/009,1,0.026028156280517578

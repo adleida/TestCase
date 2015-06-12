@@ -1,0 +1,8 @@
+2015-06-12T17:00:40 [INFO] root: case_name = /home/tate/project/testcase/format/055
+2015-06-12T17:00:40 [INFO] root: send_conf:(pass, None)
+2015-06-12T17:00:40 [INFO] root: reload_conf:(pass, None)
+2015-06-12T17:00:40 [INFO] root: setup:(pass,None)
+2015-06-12T17:00:40 [INFO] root: Count: 1
+2015-06-12T17:00:40 [INFO] root: send_bid:(pass, {'is_test': 0, 'adm': [], 'error': {'detail': "json syntax error('1' is not one of [1])", 'code': 1}})
+2015-06-12T17:00:40 [INFO] root: escaped_time 0.0475461483001709's 
+2015-06-12T17:00:40 [INFO] root: /home/tate/project/testcase/format/055,1,0.0054569244384765625

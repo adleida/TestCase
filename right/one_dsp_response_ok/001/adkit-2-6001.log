@@ -1,0 +1,26 @@
+2015-06-12T11:37:47 [INFO] root: case_name = /home/tate/project/testcase/right/001
+2015-06-12T11:37:47 [INFO] root: send_conf:(pass, None)
+2015-06-12T11:37:47 [INFO] root: reload_conf:(pass, None)
+2015-06-12T11:37:47 [INFO] root: setup:(pass,None)
+2015-06-12T11:37:47 [INFO] root: Count: 1
+2015-06-12T11:37:47 [INFO] root: send_bid:(pass, {'is_test': 0, 'adm': [{'click_through_url': ['http://www.ipinyou.com.cn/through/'], 'tracking_url': ['http://www.ipinyou.com.cn/tracking/'], 'id': '55541a20ecca2241673041c6', 'data': {'img': 'http://exchange/11002', 'text': '品友app2 is very good'}}]})
+2015-06-12T11:37:47 [ERROR] root: Error = 
+2015-06-12T11:37:47 [INFO] root: escaped_time 0.09244728088378906's 
+2015-06-12T11:37:47 [INFO] root: /home/tate/project/testcase/right/001,1,0.04175567626953125
+2015-06-12T11:40:33 [INFO] root: case_name = /home/tate/project/testcase/right/001
+2015-06-12T11:40:33 [INFO] root: send_conf:(pass, None)
+2015-06-12T11:40:33 [INFO] root: reload_conf:(pass, None)
+2015-06-12T11:40:33 [INFO] root: setup:(pass,None)
+2015-06-12T11:40:33 [INFO] root: Count: 1
+2015-06-12T11:40:33 [INFO] root: send_bid:(pass, {'adm': [{'id': '55541a20ecca2241673041c6', 'data': {'img': 'http://exchange/11002', 'text': '品友app2 is very good'}, 'tracking_url': ['http://www.ipinyou.com.cn/tracking/'], 'click_through_url': ['http://www.ipinyou.com.cn/through/']}], 'is_test': 0})
+2015-06-12T11:40:33 [ERROR] root: Cmp result error
+2015-06-12T11:40:33 [INFO] root: escaped_time 0.06402230262756348's 
+2015-06-12T11:40:33 [INFO] root: /home/tate/project/testcase/right/001,1,0.026265382766723633
+2015-06-12T11:43:24 [INFO] root: case_name = /home/tate/project/testcase/right/001
+2015-06-12T11:43:24 [INFO] root: send_conf:(pass, None)
+2015-06-12T11:43:24 [INFO] root: reload_conf:(pass, None)
+2015-06-12T11:43:24 [INFO] root: setup:(pass,None)
+2015-06-12T11:43:24 [INFO] root: Count: 1
+2015-06-12T11:43:24 [INFO] root: send_bid:(pass, {'is_test': 0, 'adm': [{'data': {'img': 'http://exchange/11002', 'text': '品友app2 is very good'}, 'tracking_url': ['http://www.ipinyou.com.cn/tracking/'], 'id': '55541a20ecca2241673041c6', 'click_through_url': ['http://www.ipinyou.com.cn/through/']}]})
+2015-06-12T11:43:24 [INFO] root: escaped_time 0.06727361679077148's 
+2015-06-12T11:43:24 [INFO] root: /home/tate/project/testcase/right/001,1,0.0225832462310791

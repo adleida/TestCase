@@ -1,0 +1,9 @@
+2015-06-12T12:17:21 [INFO] root: case_name = /home/tate/project/testcase/right/006
+2015-06-12T12:17:21 [INFO] root: send_conf:(pass, None)
+2015-06-12T12:17:21 [INFO] root: reload_conf:(pass, None)
+2015-06-12T12:17:21 [INFO] root: setup:(pass,None)
+2015-06-12T12:17:21 [INFO] root: Count: 1
+2015-06-12T12:17:21 [INFO] root: send_bid:(pass, {'is_test': 0, 'adm': [{'click_through_url': ['http://www.ipinyou.com.cn/through/'], 'id': '55541a20ecca2241673041cc', 'data': {'text': '国美-天天特价,快速送达,优惠GO到家 by 品友', 'img': 'http://ad-exchange-server/image20121'}, 'tracking_url': ['http://www.ipinyou.com.cn/tracking/']}, {'click_through_url': ['http://www.ss.com.cn/through/'], 'id': '55541a20ecca2241673041d2', 'data': {'text': '分众传媒app2 is very good', 'img': 'http://exchange/11102'}}]})
+2015-06-12T12:17:21 [ERROR] root: Cmp result error
+2015-06-12T12:17:21 [INFO] root: escaped_time 0.0735025405883789's 
+2015-06-12T12:17:21 [INFO] root: /home/tate/project/testcase/right/006,1,0.03370404243469238

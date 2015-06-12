@@ -1,0 +1,8 @@
+2015-06-12T16:44:38 [INFO] root: case_name = /home/tate/project/testcase/format/033-1
+2015-06-12T16:44:38 [INFO] root: send_conf:(pass, None)
+2015-06-12T16:44:38 [INFO] root: reload_conf:(pass, None)
+2015-06-12T16:44:38 [INFO] root: setup:(pass,None)
+2015-06-12T16:44:38 [INFO] root: Count: 1
+2015-06-12T16:44:38 [INFO] root: send_bid:(pass, {'is_test': 0, 'adm': [{'data': {'text': '下载聚美优品App立马送代金券by品友', 'img': 'http://ad-exchange-server/image20101'}, 'click_through_url': ['http://www.ipinyou.com.cn/through/'], 'id': '55541a20ecca2241673041c9', 'tracking_url': ['http://www.ipinyou.com.cn/tracking/']}, {'data': {'text': '品友app2 is very good', 'img': 'http://exchange/11002'}, 'click_through_url': ['http://www.ipinyou.com.cn/through/'], 'id': '55541a20ecca2241673041c6', 'tracking_url': ['http://www.ipinyou.com.cn/tracking/']}, {'data': {'text': '分众传媒app2 is very good', 'img': 'http://exchange/11102'}, 'click_through_url': ['http://www.ipinyou.com.cn/through/'], 'id': '55541a20ecca2241673041d2', 'tracking_url': ['http://www.ipinyou.com.cn/tracking/']}]})
+2015-06-12T16:44:38 [INFO] root: escaped_time 0.07415890693664551's 
+2015-06-12T16:44:38 [INFO] root: /home/tate/project/testcase/format/033-1,1,0.03661489486694336

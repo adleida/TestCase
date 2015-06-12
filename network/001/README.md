@@ -4,6 +4,9 @@ author: wangguozhu
 datetime: 2015-04-29
 ---
 
+# makesure: False
+# reason: config error
+
 ## summary
 
 只有一家dsp,发送bid-request失败

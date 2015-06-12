@@ -1,0 +1,8 @@
+2015-06-12T12:00:17 [INFO] root: case_name = /home/tate/project/testcase/right/003
+2015-06-12T12:00:17 [INFO] root: send_conf:(pass, None)
+2015-06-12T12:00:17 [INFO] root: reload_conf:(pass, None)
+2015-06-12T12:00:17 [INFO] root: setup:(pass,None)
+2015-06-12T12:00:17 [INFO] root: Count: 1
+2015-06-12T12:00:17 [INFO] root: send_bid:(pass, {'is_test': 0, 'adm': [{'click_through_url': ['http://www.ipinyou.com.cn/through/'], 'id': '55541a20ecca2241673041c6', 'data': {'text': '品友app2 is very good', 'img': 'http://exchange/11002'}, 'tracking_url': ['http://www.ipinyou.com.cn/tracking/']}, {'click_through_url': ['http://www.ss.com.cn/through/'], 'id': '55541a20ecca2241673041cf', 'data': {'text': '分众传媒下载聚美优品App立马送代金券', 'img': 'http://ad-exchange-server/image21101'}, 'tracking_url': ['http://www.ss.com.cn/tracking/']}, {'click_through_url': ['http://www.dd.com.cn/through/'], 'id': '55541a20ecca2241673041db', 'data': {'text': ' 亿玛 花猫美食,最好的选择', 'img': 'http://exchange/image22102'}, 'tracking_url': ['http://www.dd.com.cn/tracking/']}]})
+2015-06-12T12:00:17 [INFO] root: escaped_time 0.0912482738494873's 
+2015-06-12T12:00:17 [INFO] root: /home/tate/project/testcase/right/003,1,0.049841880798339844

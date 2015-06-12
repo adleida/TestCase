@@ -4,6 +4,9 @@ author: wangguozhu
 datetime: 2015-04-29
 ---
 
+# makesure: false
+# reason: No dsp config
+
 ## summary
 
 两家dsp,发送bid-request失败

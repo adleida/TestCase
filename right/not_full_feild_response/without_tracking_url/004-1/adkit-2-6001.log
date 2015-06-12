@@ -1,0 +1,8 @@
+2015-06-12T12:07:31 [INFO] root: case_name = /home/tate/project/testcase/right/004-1
+2015-06-12T12:07:31 [INFO] root: send_conf:(pass, None)
+2015-06-12T12:07:31 [INFO] root: reload_conf:(pass, None)
+2015-06-12T12:07:31 [INFO] root: setup:(pass,None)
+2015-06-12T12:07:31 [INFO] root: Count: 1
+2015-06-12T12:07:31 [INFO] root: send_bid:(pass, {'is_test': 0, 'adm': [{'id': '55541a20ecca2241673041c6', 'data': {'img': 'http://exchange/11002', 'text': '品友app2 is very good'}, 'click_through_url': ['http://www.yijia.com.cn/through/']}]})
+2015-06-12T12:07:31 [INFO] root: escaped_time 0.0708315372467041's 
+2015-06-12T12:07:31 [INFO] root: /home/tate/project/testcase/right/004-1,1,0.024760007858276367
