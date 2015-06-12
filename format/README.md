@@ -86,6 +86,7 @@
 - response_error/016/README.md:# makesure: true
 - response_error/017/README.md:# makesure: true
 - response_error/018/README.md:# makesure: true
+- response_error/019/README.md:# makesure: false # reason: result fail
 - response_error/020-1/README.md:# makesure: true
 - response_error/020-2/README.md:# makesure: true
 - response_error/020/README.md:# makesure: true
@@ -94,6 +95,7 @@
 - response_error/033/README.md:# makesure: true
 - response_error/034-1/README.md:# makesure: true
 - response_error/034/README.md:# makesure: true
+- response_error/064/README.md:# makesure: false # reason: response format error
 - response_error/099/README.md:# makesure: true
 - response_error/101/README.md:# makesure: true
 - response_error/213/README.md:# makesure: true
