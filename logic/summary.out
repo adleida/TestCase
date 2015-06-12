@@ -1,0 +1,91 @@
+./three_dsp_response/102/README.md:## summary
+./three_dsp_response/102/README.md-
+./three_dsp_response/102/README.md-3家dsp110,111,112.其中110返回的response中部分物料没有出价,111,112返回的response中所有物料都有出价,且相等;
+--
+./three_dsp_response/100/README.md:## summary
+./three_dsp_response/100/README.md-
+./three_dsp_response/100/README.md-3家dsp:110,111,112;其中110,111返回价格高于最低价并相同,112返回价格不同切高于其他两家110,111
+--
+./three_dsp_response/104/README.md:## summary
+./three_dsp_response/104/README.md-
+./three_dsp_response/104/README.md-request请求6个广告位,3家dsp110,111,112;
+--
+./three_dsp_response/61/README.md:## summary
+./three_dsp_response/61/README.md-
+./three_dsp_response/61/README.md-request请求6个广告位,3家dsp110,111,112;
+--
+./three_dsp_response/103/README.md:## summary
+./three_dsp_response/103/README.md-
+./three_dsp_response/103/README.md-3家dsp110,111,112; 3家返回的response中都部分物料有出价,价格高于最低价
+--
+./three_dsp_response/015/README.md:## summary
+./three_dsp_response/015/README.md-
+./three_dsp_response/015/README.md-3家dsp返回价格高于最低价并相同
+--
+./three_dsp_response/005/README.md:## summary
+./three_dsp_response/005/README.md-
+./three_dsp_response/005/README.md-sdk发送正确的Client-request,三家dsp,一家返回正常,一家返回空,一家未返回
+--
+./three_dsp_response/101/README.md:## summary
+./three_dsp_response/101/README.md-
+./three_dsp_response/101/README.md-3家dsp110,111,112.其中110返回的response中部分物料没有出价,111返回的response中所有物料没有出价,112返回的物料都有出价,所有出价都高于最低价
+--
+./three_dsp_response/006/README.md:## summary
+./three_dsp_response/006/README.md-
+./three_dsp_response/006/README.md-sdk发送正确的Client-request,三家dsp,一家返回空,两家未返回
+--
+./one_dsp_response/001/README.md:## summary
+./one_dsp_response/001/README.md-
+./one_dsp_response/001/README.md-测试一家dsp返回空
+--
+./one_dsp_response/007/README.md:## summary
+./one_dsp_response/007/README.md-
+./one_dsp_response/007/README.md-sdk发送正确的Client-request,一家dsp返回response 低于最低价
+--
+./one_dsp_response/009/README.md:## summary
+./one_dsp_response/009/README.md-
+./one_dsp_response/009/README.md-sdk发送正确的Client-request,一家dsp返回价格等同于最低价
+--
+./one_dsp_response/016/README.md:## summary
+./one_dsp_response/016/README.md-
+./one_dsp_response/016/README.md-sdk发送争取的client-request,一家dsp，返回价格低于最低价
+--
+./two_dsp_response/004/README.md:## summary
+./two_dsp_response/004/README.md-
+./two_dsp_response/004/README.md-sdk发送正确的Client-request,两家dsp,一家返回正常,一家wei返回response
+--
+./two_dsp_response/008/README.md:## summary
+./two_dsp_response/008/README.md-
+./two_dsp_response/008/README.md-sdk发送正确的Client-request,两家dsp返回低于最低价
+--
+./two_dsp_response/011/README.md:## summary
+./two_dsp_response/011/README.md-
+./two_dsp_response/011/README.md-sdk发送正确的Client-request,两家dsp,dsp:110返回价格正常，dsp：111返回价格低于最低价
+--
+./two_dsp_response/003/README.md:## summary
+./two_dsp_response/003/README.md-
+./two_dsp_response/003/README.md-sdk发送正确的Client-request,两家dsp,一家返回正常,一家返回空
+--
+./two_dsp_response/013/README.md:## summary
+./two_dsp_response/013/README.md-
+./two_dsp_response/013/README.md-两家dsp,id:110 返正常, id:111 返回低于最低价
+--
+./two_dsp_response/014/README.md:## summary
+./two_dsp_response/014/README.md-
+./two_dsp_response/014/README.md-两家dsp返回价格高于最低价并相同
+--
+./two_dsp_response/012/README.md:## summary
+./two_dsp_response/012/README.md-
+./two_dsp_response/012/README.md-sdk发送正确的Client-request,两家dsp,dsp:110返回价格低于最低价，dsp：111返回为空
+--
+./two_dsp_response/010/README.md:## summary
+./two_dsp_response/010/README.md-
+./two_dsp_response/010/README.md-sdk发送正确的Client-request,两家dsp返回价格等同于最低价
+--
+./two_dsp_response/002/README.md:## summary
+./two_dsp_response/002/README.md-
+./two_dsp_response/002/README.md-sdk发送正确的Client-request,两家dsp返回空
+--
+./two_dsp_response/012-1/README.md:## summary
+./two_dsp_response/012-1/README.md-
+./two_dsp_response/012-1/README.md-两家dsp,id:110 返回空, id:111 返回低于最低价

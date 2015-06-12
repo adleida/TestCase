@@ -1,0 +1,103 @@
+./one_dsp_response_ok/001-2/README.md:## summary
+./one_dsp_response_ok/001-2/README.md-
+./one_dsp_response_ok/001-2/README.md-测试一家dsp,返回正常
+--
+./one_dsp_response_ok/001/README.md:## summary
+./one_dsp_response_ok/001/README.md-
+./one_dsp_response_ok/001/README.md-测试一家dsp,返回正常
+--
+./one_dsp_response_ok/001-1/README.md:## summary
+./one_dsp_response_ok/001-1/README.md-
+./one_dsp_response_ok/001-1/README.md-一家dsp返回两个物料
+--
+./one_dsp_response_ok/001-3/README.md:## summary
+./one_dsp_response_ok/001-3/README.md-
+./one_dsp_response_ok/001-3/README.md-测试一家dsp,返回正常
+--
+./one_dsp_response_ok/001-3/REPORT.md:## summary
+./one_dsp_response_ok/001-3/REPORT.md-
+./one_dsp_response_ok/001-3/REPORT.md-一家dsp返回正常
+--
+./three_dsp_response_ok/003/README.md:## summary
+./three_dsp_response_ok/003/README.md-
+./three_dsp_response_ok/003/README.md-测试三家dsp,返回正常
+--
+./three_dsp_response_ok/009/README.md:## summary
+./three_dsp_response_ok/009/README.md-
+./three_dsp_response_ok/009/README.md-三家dsp110,111,112,各使用2个物料参与竞价
+--
+./two_dsp_response_ok/002-1/README.md:## summary
+./two_dsp_response_ok/002-1/README.md-
+./two_dsp_response_ok/002-1/README.md-两家dsp,一家返回一个物料,一家返回两个物料
+--
+./two_dsp_response_ok/002/README.md:## summary
+./two_dsp_response_ok/002/README.md-
+./two_dsp_response_ok/002/README.md-测试两家dsp,返回正常
+--
+./two_dsp_response_ok/002-2/README.md:## summary
+./two_dsp_response_ok/002-2/README.md-
+./two_dsp_response_ok/002-2/README.md-两家dsp,一家返回一个物料,一家返回两个物料
+--
+./not_full_feild_response/008-1/README.md:## summary
+./not_full_feild_response/008-1/README.md-
+./not_full_feild_response/008-1/README.md-两家dsp110,111,两家都没有返回点击检测url,
+--
+./not_full_feild_response/without_tracking_url/004/README.md:## summary
+./not_full_feild_response/without_tracking_url/004/README.md-
+./not_full_feild_response/without_tracking_url/004/README.md-一家dsp,返回的response中没有曝光检测url
+--
+./not_full_feild_response/without_tracking_url/006-1/README.md:## summary
+./not_full_feild_response/without_tracking_url/006-1/README.md-
+./not_full_feild_response/without_tracking_url/006-1/README.md-两家dsp,一家返回正常,一家返回bid-response中两个物料都没有曝光检测url
+--
+./not_full_feild_response/without_tracking_url/004-2/README.md:## summary
+./not_full_feild_response/without_tracking_url/004-2/README.md-
+./not_full_feild_response/without_tracking_url/004-2/README.md-一家dsp,返回的response中两个物料一个没有曝光检测url
+--
+./not_full_feild_response/without_tracking_url/006-2/README.md:## summary
+./not_full_feild_response/without_tracking_url/006-2/README.md-
+./not_full_feild_response/without_tracking_url/006-2/README.md-两家dsp,一家返回正常,一家返回bid-response中两个物料其中一个没有曝光检测url
+--
+./not_full_feild_response/without_tracking_url/004-1/README.md:## summary
+./not_full_feild_response/without_tracking_url/004-1/README.md-
+./not_full_feild_response/without_tracking_url/004-1/README.md-一家dsp,返回的response中没有曝光检测url
+--
+./not_full_feild_response/without_tracking_url/006/README.md:## summary
+./not_full_feild_response/without_tracking_url/006/README.md-
+./not_full_feild_response/without_tracking_url/006/README.md-两家dsp,一家返回正常,一家返回bid-response没有曝光检测url
+--
+./not_full_feild_response/008/README.md:## summary
+./not_full_feild_response/008/README.md-
+./not_full_feild_response/008/README.md-两家dsp,一家返回没有点击检测url,一家返回没有曝光检测url
+--
+./not_full_feild_response/008-2/README.md:## summary
+./not_full_feild_response/008-2/README.md-
+./not_full_feild_response/008-2/README.md-两家dsp110,111;两家都没有返回曝光检测url
+--
+./not_full_feild_response/without_click_url/007/README.md:## summary
+./not_full_feild_response/without_click_url/007/README.md-
+./not_full_feild_response/without_click_url/007/README.md-两家dsp 110,111;dsp:110返回正常,dsp:111返回bid-response没有点击检测url
+--
+./not_full_feild_response/without_click_url/005-2/README.md:## summary
+./not_full_feild_response/without_click_url/005-2/README.md-
+./not_full_feild_response/without_click_url/005-2/README.md-一家dsp,返回的response中两个物料其中一个没有点击检测url
+--
+./not_full_feild_response/without_click_url/007-2/README.md:## summary
+./not_full_feild_response/without_click_url/007-2/README.md-
+./not_full_feild_response/without_click_url/007-2/README.md-两家dsp 110,111;dsp:110返回正常,dsp:111返回bid-response没有点击检测url字段
+--
+./not_full_feild_response/without_click_url/007-1/README.md:## summary
+./not_full_feild_response/without_click_url/007-1/README.md-
+./not_full_feild_response/without_click_url/007-1/README.md-两家dsp 110,111各返回两个物料;dsp:110返回正常,dsp:111返回bid-response中有一个物料没有点击检测url字段
+--
+./not_full_feild_response/without_click_url/005-1/README.md:## summary
+./not_full_feild_response/without_click_url/005-1/README.md-
+./not_full_feild_response/without_click_url/005-1/README.md-一家dsp,返回的response中两个物料都没有点击检测url
+--
+./not_full_feild_response/without_click_url/005/README.md:## summary
+./not_full_feild_response/without_click_url/005/README.md-
+./not_full_feild_response/without_click_url/005/README.md-一家dsp,返回的response中没有点击检测url
+--
+./not_full_feild_response/010/README.md:## summary
+./not_full_feild_response/010/README.md-
+./not_full_feild_response/010/README.md-一家dsp,返回的response中没有曝光检测url

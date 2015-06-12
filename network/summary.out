@@ -1,0 +1,63 @@
+./001/README.md:## summary
+./001/README.md-
+./001/README.md-只有一家dsp,发送bid-request失败
+--
+./004/README.md:## summary
+./004/README.md-
+./004/README.md-exchange返回client-response失败
+--
+./007/README.md:## summary
+./007/README.md-
+./007/README.md-exchange发送dsp-notice,两家dsp,一家竞价成功但是nurl是无效地址
+--
+./008/README.md:## summary
+./008/README.md-
+./008/README.md-exchange发送dsp-notice,两家dsp,一家竞价失败但是nurl是无效地址
+--
+./011/README.md:## summary
+./011/README.md-
+./011/README.md-sdk发送正确的Client-request,两家dsp,dsp:110没有响应，dsp：111没有响应
+--
+./003/README.md:## summary
+./003/README.md-
+./003/README.md-两家dsp, 110发送成功,111发送失败
+--
+./013/README.md:## summary
+./013/README.md-
+./013/README.md-一家dsp无响应
+--
+./015/README.md:## summary
+./015/README.md-
+./015/README.md-只有一家dsp,发送bid-request失败
+--
+./014/README.md:## summary
+./014/README.md-
+./014/README.md-一家dsp,发送bid-request失败
+--
+./009/README.md:## summary
+./009/README.md-
+./009/README.md-sdk发送正确的Client-request,两家dsp,dsp:110返回的nurl是无效地址，dsp：111
+--
+./016/README.md:## summary
+./016/README.md-
+./016/README.md-向adx发送request失败
+--
+./012/README.md:## summary
+./012/README.md-
+./012/README.md-sdk发送正确的Client-request,两家dsp,dsp:110返回正常，dsp：111没有响应
+--
+./005/README.md:## summary
+./005/README.md-
+./005/README.md-exchange通知sdk端失败
+--
+./010/README.md:## summary
+./010/README.md-
+./010/README.md-sdk发送正确的Client-request,一家dsp,dsp：110没有响应
+--
+./002/README.md:## summary
+./002/README.md-
+./002/README.md-两家dsp,发送bid-request失败
+--
+./006/README.md:## summary
+./006/README.md-
+./006/README.md-exchagne发送dsp-notice,nurl是无效地址

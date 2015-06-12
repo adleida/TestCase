@@ -1,0 +1,399 @@
+./json_format_error/002/README.md:## summary
+./json_format_error/002/README.md-
+./json_format_error/002/README.md-sdk发送的client-request是无法解析的json串
+--
+./header_error/004/README.md:## summary
+./header_error/004/README.md-
+./header_error/004/README.md-sdk发送的Client-request中没有指明ad-exchange-version为0.14
+--
+./header_error/003/README.md:## summary
+./header_error/003/README.md-
+./header_error/003/README.md-sdk发送的Client-request中没有指明Content-Type为application/json
+--
+./response_error/213/README.md:## summary
+./response_error/213/README.md-
+./response_error/213/README.md-一家dsp,返回bid-response中price为string
+--
+./response_error/new1/README.md:## summary
+./response_error/new1/README.md-
+./response_error/new1/README.md-两家dsp,一家返回正常,一家返回bid-response多data对象
+--
+./response_error/010-1/README.md:## summary
+./response_error/010-1/README.md-
+./response_error/010-1/README.md-sdk发送正确的Client-request,返回的response中部分没有出价信息
+--
+./response_error/034/README.md:## summary
+./response_error/034/README.md-
+./response_error/034/README.md-一家dsp定义adm对象数组为对象
+--
+./response_error/033/README.md:## summary
+./response_error/033/README.md-
+./response_error/033/README.md-一家dsp返回两个物料,物料没有data字段
+--
+./response_error/020/README.md:## summary
+./response_error/020/README.md-
+./response_error/020/README.md-一家dsp,返回的bid-response中没有nurl
+--
+./response_error/012-2/README.md:## summary
+./response_error/012-2/README.md-
+./response_error/012-2/README.md-一家dsp,返回bid-response格式错误,数组或对象的括号不成对
+--
+./response_error/216/README.md:## summary
+./response_error/216/README.md-
+./response_error/216/README.md-一家dsp,返回bid-response中is_test为string
+--
+./response_error/064/README.md:## summary
+./response_error/064/README.md-
+./response_error/064/README.md-response 中adm.id不存在
+--
+./response_error/014-1/README.md:## summary
+./response_error/014-1/README.md-
+./response_error/014-1/README.md-一家dsp,返回bid-response中did不正确,nurl正确
+--
+./response_error/new2/README.md:## summary
+./response_error/new2/README.md-
+./response_error/new2/README.md-两家dsp 110 ,111,各返回两个物料
+--
+./response_error/020-2/README.md:## summary
+./response_error/020-2/README.md-
+./response_error/020-2/README.md-两家dsp,dsp111返回的bid-response中没有nurl
+--
+./response_error/new3/README.md:## summary
+./response_error/new3/README.md-
+./response_error/new3/README.md-两家dsp110,111
+--
+./response_error/019/README.md:## summary
+./response_error/019/README.md-
+./response_error/019/README.md-一家dsp,返回的bid-response中id与request.id对应不上
+--
+./response_error/011/README.md:## summary
+./response_error/011/README.md-
+./response_error/011/README.md-两家dsp,一家返回正常,一家没有出价信息
+--
+./response_error/099/README.md:## summary
+./response_error/099/README.md-
+./response_error/099/README.md-一家dsp,返回bid-response中有不属于dsp自己的物料或不存在的物料
+--
+./response_error/032/README.md:## summary
+./response_error/032/README.md-
+./response_error/032/README.md-一家dsp返回两个物料,一个物料没有id字段
+--
+./response_error/013/README.md:## summary
+./response_error/013/README.md-
+./response_error/013/README.md-一家dsp,返回bid-response中did不存在,nurl不存在
+--
+./response_error/018/README.md:## summary
+./response_error/018/README.md-
+./response_error/018/README.md-两家dsp,一家返回正常,一家返回的bid-response中id与request的id对应不上
+--
+./response_error/015/README.md:## summary
+./response_error/015/README.md-
+./response_error/015/README.md-两家dsp,一家返回正常,一家返回bid-response格式错误
+--
+./response_error/014/README.md:## summary
+./response_error/014/README.md-
+./response_error/014/README.md-一家dsp,返回bid-response中did不正确,nurl不正确
+--
+./response_error/032-1/README.md:## summary
+./response_error/032-1/README.md-
+./response_error/032-1/README.md-两家dsp返回物料,一家dsp没有adm.id字段
+--
+./response_error/011-1/README.md:## summary
+./response_error/011-1/README.md-
+./response_error/011-1/README.md-两家dsp: 110 ,111, dsp110返回的2个物料中有一个物料有出价,另一个没有出价,dsp111返回的两个物料没有出价信息
+--
+./response_error/016/README.md:## summary
+./response_error/016/README.md-
+./response_error/016/README.md-sdk发送正确的Client-request,两家dsp,一家返回正常,一家返回的response中did不存在
+--
+./response_error/012/README.md:## summary
+./response_error/012/README.md-
+./response_error/012/README.md-一家dsp,返回bid-response格式错误,缺少逗号
+--
+./response_error/215/README.md:## summary
+./response_error/215/README.md-
+./response_error/215/README.md-一家dsp,返回bid-response中did为int类型
+--
+./response_error/017/README.md:## summary
+./response_error/017/README.md-
+./response_error/017/README.md-两家dsp,一家返回正常,另一家返回bid-response中did不存在
+--
+./response_error/214/README.md:## summary
+./response_error/214/README.md-
+./response_error/214/README.md-一家dsp,返回的bid-response中物料id为int
+--
+./response_error/013-1/README.md:## summary
+./response_error/013-1/README.md-
+./response_error/013-1/README.md-一家dsp110,返回bid-response中did不存在,nurl存在
+--
+./response_error/020-1/README.md:## summary
+./response_error/020-1/README.md-
+./response_error/020-1/README.md-两家dsp,返回的bid-response中没有nurl
+--
+./response_error/033-1/README.md:## summary
+./response_error/033-1/README.md-
+./response_error/033-1/README.md-两家dsp返回物料,没有data字段
+--
+./response_error/010/README.md:## summary
+./response_error/010/README.md-
+./response_error/010/README.md-sdk发送正确的Client-request,返回的response中没有出价信息
+--
+./response_error/101/README.md:## summary
+./response_error/101/README.md-
+./response_error/101/README.md-一家dsp,返回bid-response中有不属于dsp自己的物料或不存在的物料
+--
+./response_error/034-1/README.md:## summary
+./response_error/034-1/README.md-
+./response_error/034-1/README.md-两家dsp定义adm对象数组为对象
+--
+./response_error/012-1/README.md:## summary
+./response_error/012-1/README.md-
+./response_error/012-1/README.md-一家dsp,返回bid-response格式错误,数组写成对象
+--
+./Not_full_feild_request/042/README.md:## summary
+./Not_full_feild_request/042/README.md-
+./Not_full_feild_request/042/README.md-sdk发送的Client-request中geo对象不存在
+--
+./Not_full_feild_request/030/README.md:## summary
+./Not_full_feild_request/030/README.md-
+./Not_full_feild_request/030/README.md-sdk发送的Client-request中,缺少device.device_id_enc字段
+--
+./Not_full_feild_request/041/README.md:## summary
+./Not_full_feild_request/041/README.md-
+./Not_full_feild_request/041/README.md-sdk发送的Client-request中sdk字段不存在
+--
+./Not_full_feild_request/063/README.md:## summary
+./Not_full_feild_request/063/README.md-
+./Not_full_feild_request/063/README.md-sdk发送client-request,device.brand为整型
+--
+./Not_full_feild_request/031/README.md:## summary
+./Not_full_feild_request/031/README.md-
+./Not_full_feild_request/031/README.md-dsp返回的bid-response中,缺少adm对象
+--
+./Not_full_feild_request/201/README.md:## summary
+./Not_full_feild_request/201/README.md-
+./Not_full_feild_request/201/README.md-sdk发送的Client-request中,adunit.type为string
+--
+./Not_full_feild_request/040/README.md:## summary
+./Not_full_feild_request/040/README.md-
+./Not_full_feild_request/040/README.md-sdk发送的Client-request中is_test字段不存在
+--
+./Not_full_feild_request/206/README.md:## summary
+./Not_full_feild_request/206/README.md-
+./Not_full_feild_request/206/README.md-sdk发送的Client-request中,device.device_type为string
+--
+./Not_full_feild_request/048/README.md:## summary
+./Not_full_feild_request/048/README.md-
+./Not_full_feild_request/048/README.md-sdk发送client-request,adunit.param对象为空
+--
+./Not_full_feild_request/208/README.md:## summary
+./Not_full_feild_request/208/README.md-
+./Not_full_feild_request/208/README.md-sdk发送的Client-request中,device.network_id为string
+--
+./Not_full_feild_request/051/README.md:## summary
+./Not_full_feild_request/051/README.md-
+./Not_full_feild_request/051/README.md-sdk发送client-request,device.resolution_w字段不存在
+--
+./Not_full_feild_request/023/README.md:## summary
+./Not_full_feild_request/023/README.md-
+./Not_full_feild_request/023/README.md-sdk发送的Client-request中,没有is_test字段
+--
+./Not_full_feild_request/001/README.md:## summary
+./Not_full_feild_request/001/README.md-
+./Not_full_feild_request/001/README.md-sdk发送的client-request中没有adunit对象
+--
+./Not_full_feild_request/211/README.md:## summary
+./Not_full_feild_request/211/README.md-
+./Not_full_feild_request/211/README.md-sdk发送的Client-request中,device对象里的os_version为浮点数
+--
+./Not_full_feild_request/068/README.md:## summary
+./Not_full_feild_request/068/README.md-
+./Not_full_feild_request/068/README.md-sdk发送的Client-request中,param字段为空对象
+--
+./Not_full_feild_request/037/README.md:## summary
+./Not_full_feild_request/037/README.md-
+./Not_full_feild_request/037/README.md-sdk发送的Client-request中adunit对象为空
+--
+./Not_full_feild_request/062/README.md:## summary
+./Not_full_feild_request/062/README.md-
+./Not_full_feild_request/062/README.md-sdk发送client-request,device.os_version为浮点型
+--
+./Not_full_feild_request/007/README.md:## summary
+./Not_full_feild_request/007/README.md-
+./Not_full_feild_request/007/README.md-sdk发送的Client-request中没有param字段
+--
+./Not_full_feild_request/027/README.md:## summary
+./Not_full_feild_request/027/README.md-
+./Not_full_feild_request/027/README.md-sdk发送的Client-request中,缺少device.resolution_w字段
+--
+./Not_full_feild_request/202/README.md:## summary
+./Not_full_feild_request/202/README.md-
+./Not_full_feild_request/202/README.md-sdk发送的Client-request中,adunit对象写成数组
+--
+./Not_full_feild_request/046/README.md:## summary
+./Not_full_feild_request/046/README.md-
+./Not_full_feild_request/046/README.md-sdk发送client-request,没有adunit.floor字段
+--
+./Not_full_feild_request/026/README.md:## summary
+./Not_full_feild_request/026/README.md-
+./Not_full_feild_request/026/README.md-sdk发送的Client-request中,缺少device.os_version字段
+--
+./Not_full_feild_request/065/README.md:## summary
+./Not_full_feild_request/065/README.md-
+./Not_full_feild_request/065/README.md-sdk发送的Client-request中,没有geo对象
+--
+./Not_full_feild_request/045/README.md:## summary
+./Not_full_feild_request/045/README.md-
+./Not_full_feild_request/045/README.md-sdk发送client-request,没有adunit.type字段
+--
+./Not_full_feild_request/207/README.md:## summary
+./Not_full_feild_request/207/README.md-
+./Not_full_feild_request/207/README.md-sdk发送的Client-request中,is_test为string
+--
+./Not_full_feild_request/212/README.md:## summary
+./Not_full_feild_request/212/README.md-
+./Not_full_feild_request/212/README.md-sdk发送的Client-request中,device对象里的resolution_w,resolution_h为string
+--
+./Not_full_feild_request/008/README.md:## summary
+./Not_full_feild_request/008/README.md-
+./Not_full_feild_request/008/README.md-sdk发送的Client-request中没有标明sdk身份的字段
+--
+./Not_full_feild_request/054/README.md:## summary
+./Not_full_feild_request/054/README.md-
+./Not_full_feild_request/054/README.md-sdk发送client-request,device.device_id_enc字段不存在
+--
+./Not_full_feild_request/029/README.md:## summary
+./Not_full_feild_request/029/README.md-
+./Not_full_feild_request/029/README.md-sdk发送的Client-request中,缺少device.device_id字段
+--
+./Not_full_feild_request/036/README.md:## summary
+./Not_full_feild_request/036/README.md-
+./Not_full_feild_request/036/README.md-sdk发送的Client-request中没有adunit对象
+--
+./Not_full_feild_request/205/README.md:## summary
+./Not_full_feild_request/205/README.md-
+./Not_full_feild_request/205/README.md-sdk发送的Client-request中,adunit.param.count为string
+--
+./Not_full_feild_request/039/README.md:## summary
+./Not_full_feild_request/039/README.md-
+./Not_full_feild_request/039/README.md-sdk发送的Client-request中device对象为空
+--
+./Not_full_feild_request/059/README.md:## summary
+./Not_full_feild_request/059/README.md-
+./Not_full_feild_request/059/README.md-sdk发送client-request,adunit.param为空
+--
+./Not_full_feild_request/058/README.md:## summary
+./Not_full_feild_request/058/README.md-
+./Not_full_feild_request/058/README.md-sdk发送client-request,adunit.param为数组
+--
+./Not_full_feild_request/047/README.md:## summary
+./Not_full_feild_request/047/README.md-
+./Not_full_feild_request/047/README.md-sdk发送client-request,没有adunit.param对象
+--
+./Not_full_feild_request/024/README.md:## summary
+./Not_full_feild_request/024/README.md-
+./Not_full_feild_request/024/README.md-sdk发送的Client-request中,param字段为空对象
+--
+./Not_full_feild_request/049/README.md:## summary
+./Not_full_feild_request/049/README.md-
+./Not_full_feild_request/049/README.md-sdk发送client-request,device.os字段不存在
+--
+./Not_full_feild_request/061/README.md:## summary
+./Not_full_feild_request/061/README.md-
+./Not_full_feild_request/061/README.md-sdk发送client-request,device.os_version为整型
+--
+./Not_full_feild_request/209/README.md:## summary
+./Not_full_feild_request/209/README.md-
+./Not_full_feild_request/209/README.md-sdk发送的Client-request中,geo对象里的latitude,longtitude为string
+--
+./Not_full_feild_request/009/README.md:## summary
+./Not_full_feild_request/009/README.md-
+./Not_full_feild_request/009/README.md-sdk发送的Client-request中没有指明user_id
+--
+./Not_full_feild_request/038/README.md:## summary
+./Not_full_feild_request/038/README.md-
+./Not_full_feild_request/038/README.md-sdk发送的Client-request中没有device对象
+--
+./Not_full_feild_request/066/README.md:## summary
+./Not_full_feild_request/066/README.md-
+./Not_full_feild_request/066/README.md-sdk发送client-request,没有cur字段
+--
+./Not_full_feild_request/043/README.md:## summary
+./Not_full_feild_request/043/README.md-
+./Not_full_feild_request/043/README.md-sdk发送的Client-request中geo对象为空
+--
+./Not_full_feild_request/057/README.md:## summary
+./Not_full_feild_request/057/README.md-
+./Not_full_feild_request/057/README.md-sdk发送client-request,adunit.floor为字符串
+--
+./Not_full_feild_request/060/README.md:## summary
+./Not_full_feild_request/060/README.md-
+./Not_full_feild_request/060/README.md-sdk发送client-request,device.os为整型
+--
+./Not_full_feild_request/022/README.md:## summary
+./Not_full_feild_request/022/README.md-
+./Not_full_feild_request/022/README.md-sdk发送的Client-request中,没有geo对象
+--
+./Not_full_feild_request/021/README.md:## summary
+./Not_full_feild_request/021/README.md-
+./Not_full_feild_request/021/README.md-sdk发送的Client-request中,没有device对象
+--
+./Not_full_feild_request/204/README.md:## summary
+./Not_full_feild_request/204/README.md-
+./Not_full_feild_request/204/README.md-sdk发送的Client-request中,adunit.cid为int
+--
+./Not_full_feild_request/053/README.md:## summary
+./Not_full_feild_request/053/README.md-
+./Not_full_feild_request/053/README.md-sdk发送client-request,device.device_id字段不存在
+--
+./Not_full_feild_request/056/README.md:## summary
+./Not_full_feild_request/056/README.md-
+./Not_full_feild_request/056/README.md-sdk发送client-request,adunit.type类型为浮点型
+--
+./Not_full_feild_request/050/README.md:## summary
+./Not_full_feild_request/050/README.md-
+./Not_full_feild_request/050/README.md-sdk发送client-request,device.os_version字段不存在
+--
+./Not_full_feild_request/203/README.md:## summary
+./Not_full_feild_request/203/README.md-
+./Not_full_feild_request/203/README.md-sdk发送的Client-request中,adunit.floor为string
+--
+./Not_full_feild_request/044/README.md:## summary
+./Not_full_feild_request/044/README.md-
+./Not_full_feild_request/044/README.md-sdk发送client-request,没有cur字段
+--
+./Not_full_feild_request/005/README.md:## summary
+./Not_full_feild_request/005/README.md-
+./Not_full_feild_request/005/README.md-sdk发送的Client-request中没有指明adunit.floor
+--
+./Not_full_feild_request/025/README.md:## summary
+./Not_full_feild_request/025/README.md-
+./Not_full_feild_request/025/README.md-sdk发送的Client-request中,缺少adunit.id对象
+--
+./Not_full_feild_request/067/README.md:## summary
+./Not_full_feild_request/067/README.md-
+./Not_full_feild_request/067/README.md-sdk发送的Client-request中,缺少device.device_id_enc字段
+--
+./Not_full_feild_request/028/README.md:## summary
+./Not_full_feild_request/028/README.md-
+./Not_full_feild_request/028/README.md-sdk发送的Client-request中,缺少device.resolution_h字段
+--
+./Not_full_feild_request/052/README.md:## summary
+./Not_full_feild_request/052/README.md-
+./Not_full_feild_request/052/README.md-sdk发送client-request,device.resolution_h字段不存在
+--
+./Not_full_feild_request/055/README.md:## summary
+./Not_full_feild_request/055/README.md-
+./Not_full_feild_request/055/README.md-sdk发送client-request,adunit.type类型为字符串
+--
+./Not_full_feild_request/035/README.md:## summary
+./Not_full_feild_request/035/README.md-
+./Not_full_feild_request/035/README.md-发送的request,没有adunit.type字段
+--
+./Not_full_feild_request/210/README.md:## summary
+./Not_full_feild_request/210/README.md-
+./Not_full_feild_request/210/README.md-sdk发送的Client-request中,device对象里的device_id_enc为string
+--
+./Not_full_feild_request/006/README.md:## summary
+./Not_full_feild_request/006/README.md-
+./Not_full_feild_request/006/README.md-sdk发送的Client-request中,没有cid字段
