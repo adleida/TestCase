@@ -23,10 +23,10 @@
 
 |casename         |   是否确认       |   确认结果       |reason        |
 |-----------------|------------------|------------------|--------------|
-|one_dsp_response_ok/001-1/README.md|makesure|true
-|one_dsp_response_ok/001-2/README.md|makesure|true
-|one_dsp_response_ok/001-3/README.md|makesure|true
-|one_dsp_response_ok/001/README.md|makesure|true
+|one_dsp_response_ok/001-1/README.md|makesure|true|None|
+|one_dsp_response_ok/001-2/README.md|makesure|true|None|
+|one_dsp_response_ok/001-3/README.md|makesure|true|None|
+|one_dsp_response_ok/001/README.md|makesure|true|None|
 
 # 两家DSP
 
