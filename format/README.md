@@ -1,10 +1,10 @@
-# header_error
+# request 请求头错误
 
 - header_error/003/README.md:# makesure: true
 - header_error/004/README.md:# makesure: true
 - json_format_error/002/README.md:# makesure: true
 
-# Not_full_feild_request
+# SDK 请求的字段不完整
 
 - Not_full_feild_request/001/README.md:# makesure: true
 - Not_full_feild_request/005/README.md:# makesure: true
@@ -69,7 +69,7 @@
 - Not_full_feild_request/211/README.md:# makesure: true
 - Not_full_feild_request/212/README.md:# makesure: true
 
-# response_error
+# DSP 响应错误
 
 - response_error/010-1/README.md:# makesure: true
 - response_error/010/README.md:# makesure: true
