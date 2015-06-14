@@ -92,7 +92,7 @@
 |response_error/016/README.md|makesure|true|None|
 |response_error/017/README.md|makesure|true|None|
 |response_error/018/README.md|makesure|true|None|
-|response_error/019/README.md|makesure|false|reason| result fail
+|response_error/019/README.md|makesure|false|result fail
 |response_error/020-1/README.md|makesure|true|None|
 |response_error/020-2/README.md|makesure|true|None|
 |response_error/020/README.md|makesure|true|None|
