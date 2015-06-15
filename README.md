@@ -1,6 +1,7 @@
 # **整理test case**
 
 ## 目前case 有四类
+:x:
 
 - right case
 - format case
