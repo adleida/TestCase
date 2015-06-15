@@ -30,3 +30,60 @@
 2015-06-12T16:15:53 [INFO] root: send_bid:(pass, {'is_test': 0, 'adm': [{'click_through_url': ['http://www.ipinyou.com.cn/through/'], 'id': '55541a20ecca2241673041c6', 'tracking_url': ['http://www.ipinyou.com.cn/tracking/'], 'data': {'img': 'http://exchange/11002', 'text': '品友app2 is very good'}}]})
 2015-06-12T16:15:53 [INFO] root: escaped_time 0.07063007354736328's 
 2015-06-12T16:15:53 [INFO] root: /home/tate/project/testcase/format/019,1,0.027359485626220703
+2015-06-15T10:08:47 [INFO] root: case_name = /home/tate/project/testcase/format/response_error/019
+2015-06-15T10:08:47 [INFO] root: send_conf:(pass, None)
+2015-06-15T10:08:47 [INFO] root: reload_conf:(pass, None)
+2015-06-15T10:08:47 [INFO] root: setup:(pass,None)
+2015-06-15T10:08:47 [INFO] root: Count: 1
+2015-06-15T10:08:47 [INFO] root: send_bid:(pass, {'adm': [{'tracking_url': ['http://www.ipinyou.com.cn/tracking/'], 'id': '55541a20ecca2241673041c6', 'click_through_url': ['http://www.ipinyou.com.cn/through/'], 'data': {'img': 'http://exchange/11002', 'text': '品友app2 is very good'}}], 'is_test': 0})
+2015-06-15T10:08:47 [INFO] root: final_result: (pass, None)
+2015-06-15T10:08:47 [INFO] root: escaped_time 0.08041214942932129's 
+2015-06-15T10:08:47 [INFO] root: /home/tate/project/testcase/format/response_error/019,1,0.03431558609008789
+2015-06-15T10:12:26 [INFO] root: case_name = /home/tate/project/testcase/format/response_error/019
+2015-06-15T10:12:26 [INFO] root: send_conf: (pass, None)
+2015-06-15T10:12:26 [INFO] root: reload_conf: (pass, None)
+2015-06-15T10:12:26 [INFO] root: setup:(pass,None)
+2015-06-15T10:12:26 [INFO] root: Count: 1
+2015-06-15T10:12:26 [INFO] root: send_bid:(pass, {'is_test': 0, 'adm': [{'click_through_url': ['http://www.ipinyou.com.cn/through/'], 'id': '55541a20ecca2241673041c6', 'data': {'text': '品友app2 is very good', 'img': 'http://exchange/11002'}, 'tracking_url': ['http://www.ipinyou.com.cn/tracking/']}]})
+2015-06-15T10:12:26 [INFO] root: final_result: (pass, None)
+2015-06-15T10:12:26 [INFO] root: escaped_time 0.06373357772827148's 
+2015-06-15T10:12:26 [INFO] root: /home/tate/project/testcase/format/response_error/019,1,0.022627830505371094
+2015-06-15T10:13:37 [INFO] root: case_name = /home/tate/project/testcase/format/response_error/019
+2015-06-15T10:13:37 [INFO] root: send_conf: (pass, None)
+2015-06-15T10:13:37 [INFO] root: reload_conf: (pass, None)
+2015-06-15T10:13:37 [INFO] root: setup: (pass, None)
+2015-06-15T10:13:37 [INFO] root: Count: 1
+2015-06-15T10:13:37 [INFO] root: send_bid: (pass, {'is_test': 0, 'adm': [{'click_through_url': ['http://www.ipinyou.com.cn/through/'], 'id': '55541a20ecca2241673041c6', 'tracking_url': ['http://www.ipinyou.com.cn/tracking/'], 'data': {'text': '品友app2 is very good', 'img': 'http://exchange/11002'}}]})
+2015-06-15T10:13:37 [INFO] root: final_result: (pass, None)
+2015-06-15T10:13:37 [INFO] root: escaped_time 0.07131218910217285's 
+2015-06-15T10:13:37 [INFO] root: /home/tate/project/testcase/format/response_error/019,1,0.023241281509399414
+2015-06-15T10:23:23 [INFO] root: case_name = /home/tate/project/testcase/format/response_error/019
+2015-06-15T10:23:23 [INFO] root: send_conf: (pass, None)
+2015-06-15T10:23:24 [INFO] root: reload_conf: (pass, None)
+2015-06-15T10:23:24 [INFO] root: setup: (pass, None)
+2015-06-15T10:23:24 [INFO] root: Count: 1
+2015-06-15T10:23:24 [INFO] root: send_bid: (pass, {'is_test': 0, 'adm': []})
+2015-06-15T10:23:24 [INFO] root: final_result: (pass, None)
+2015-06-15T10:23:24 [INFO] root: escaped_time 0.05677342414855957's 
+2015-06-15T10:23:24 [INFO] root: /home/tate/project/testcase/format/response_error/019,1,0.014400720596313477
+2015-06-15T10:23:34 [INFO] root: case_name = /home/tate/project/testcase/format/response_error/019
+2015-06-15T10:23:34 [INFO] root: send_conf: (pass, None)
+2015-06-15T10:23:34 [INFO] root: reload_conf: (pass, None)
+2015-06-15T10:23:34 [INFO] root: setup: (pass, None)
+2015-06-15T10:23:34 [INFO] root: Count: 1
+2015-06-15T10:23:34 [INFO] root: send_bid: (pass, {'is_test': 0, 'adm': []})
+2015-06-15T10:23:34 [INFO] root: final_result: (pass, None)
+2015-06-15T10:23:34 [INFO] root: escaped_time 0.058344125747680664's 
+2015-06-15T10:23:34 [INFO] root: /home/tate/project/testcase/format/response_error/019,1,0.016620635986328125
+2015-06-15T10:27:44 [INFO] root: case_name = /home/tate/project/testcase/format/response_error/019
+2015-06-15T10:27:44 [ERROR] root: send_conf: (fail, ('Connection aborted.', ConnectionRefusedError(111, 'Connection refused')))
+2015-06-15T10:27:44 [ERROR] root: setup:(fail, send_conf error, reason: ('Connection aborted.', ConnectionRefusedError(111, 'Connection refused')))
+2015-06-15T10:28:01 [INFO] root: case_name = /home/tate/project/testcase/format/response_error/019
+2015-06-15T10:28:01 [INFO] root: send_conf: (pass, None)
+2015-06-15T10:28:01 [INFO] root: reload_conf: (pass, None)
+2015-06-15T10:28:01 [INFO] root: setup: (pass, None)
+2015-06-15T10:28:01 [INFO] root: Count: 1
+2015-06-15T10:28:01 [INFO] root: send_bid: (pass, {'is_test': 0, 'adm': [{'data': {'text': '品友app2 is very good', 'img': 'http://exchange/11002'}, 'tracking_url': ['http://www.ipinyou.com.cn/tracking/'], 'id': '55541a20ecca2241673041c6', 'click_through_url': ['http://www.ipinyou.com.cn/through/']}]})
+2015-06-15T10:28:01 [INFO] root: final_result: (pass, None)
+2015-06-15T10:28:01 [INFO] root: escaped_time 0.06844520568847656's 
+2015-06-15T10:28:01 [INFO] root: /home/tate/project/testcase/format/response_error/019,1,0.021163463592529297
