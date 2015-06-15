@@ -1,7 +1,6 @@
 # **整理test case**
 
 ## 目前case 有四类
-:x:
 
 - right case
 - format case
@@ -16,7 +15,7 @@
 
 | 确认结果           | casename                                                     | 是否确认 | reason |
 |--------------------|--------------------------------------------------------------|----------|--------|
-| :white_check_mark: | not_full_feild_response/008-1/README.md                      | makesure | :x:    |
+| :white_check_mark: | not_full_feild_response/008-1/README.md                      | makesure | None   |
 | :white_check_mark: | not_full_feild_response/008-2/README.md                      | makesure | None   |
 | :white_check_mark: | not_full_feild_response/008/README.md                        | makesure | None   |
 | :white_check_mark: | not_full_feild_response/010/README.md                        | makesure | None   |
