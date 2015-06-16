@@ -1,6 +1,6 @@
 {
   "adm": [],
-  "is_test": 0,
+  "is_test": 1,
   "error": {
     "code": 1,
     "detail": "json syntax error('sdk' is a required property)"

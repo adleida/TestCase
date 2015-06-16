@@ -25,5 +25,5 @@
     ],
     "did": "100",
     "nurl": "http://dsp:6001/notice/v2/100",
-    "is_test": 0
+    "is_test": 1
 }

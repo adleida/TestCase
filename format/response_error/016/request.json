@@ -28,7 +28,7 @@
         "longtitude": 10.5544
     },
     "user_id": "bb2015001",
-    "is_test": 0,
+    "is_test": 1,
     "cur": "CNY",
     "sdk": "bangbang"
 }

@@ -1,7 +1,7 @@
 {
   "user_id": "554b46fcd25b4849b957d235", 
   "cur": "CNY", 
-  "is_test": 0, 
+  "is_test": 1, 
   "device": {
     "device_id_enc": 1, 
     "network_id": 70121, 
