@@ -1,32 +1,32 @@
-[1;39m{
-  [0m[34;1m"is_test"[0m[1;39m: [0m[0;39m1[0m[1;39m,
-  [0m[34;1m"adm"[0m[1;39m: [0m[1;39m[
-    [1;39m{
-      [0m[34;1m"id"[0m[1;39m: [0m[0;32m"55541a20ecca2241673041d2"[0m[1;39m,
-      [0m[34;1m"click_through_url"[0m[1;39m: [0m[1;39m[
-        [0;32m"http://www.ss.com.cn/through/"[0m[1;39m
-      [1;39m][0m[1;39m,
-      [0m[34;1m"mid"[0m[1;39m: [0m[0;32m"55541a20ecca2241673041d2"[0m[1;39m
-    [1;39m}[0m[1;39m,
-    [1;39m{
-      [0m[34;1m"id"[0m[1;39m: [0m[0;32m"55541a20ecca2241673041c9"[0m[1;39m,
-      [0m[34;1m"click_through_url"[0m[1;39m: [0m[1;39m[
-        [0;32m"http://www.ipinyou.com.cn/through/"[0m[1;39m
-      [1;39m][0m[1;39m,
-      [0m[34;1m"tracking_url"[0m[1;39m: [0m[1;39m[
-        [0;32m"http://www.ipinyou.com.cn/tracking/"[0m[1;39m
-      [1;39m][0m[1;39m,
-      [0m[34;1m"mid"[0m[1;39m: [0m[0;32m"55541a20ecca2241673041c9"[0m[1;39m
-    [1;39m}[0m[1;39m,
-    [1;39m{
-      [0m[34;1m"id"[0m[1;39m: [0m[0;32m"55541a20ecca2241673041cc"[0m[1;39m,
-      [0m[34;1m"click_through_url"[0m[1;39m: [0m[1;39m[
-        [0;32m"http://www.ipinyou.com.cn/through/"[0m[1;39m
-      [1;39m][0m[1;39m,
-      [0m[34;1m"tracking_url"[0m[1;39m: [0m[1;39m[
-        [0;32m"http://www.ipinyou.com.cn/tracking/"[0m[1;39m
-      [1;39m][0m[1;39m,
-      [0m[34;1m"mid"[0m[1;39m: [0m[0;32m"55541a20ecca2241673041cc"[0m[1;39m
-    [1;39m}[0m[1;39m
-  [1;39m][0m[1;39m
-[1;39m}[0m
+{
+  "is_test": 1,
+  "adm": [
+    {
+      "id": "55541a20ecca2241673041d2",
+      "click_through_url": [
+        "http://www.ss.com.cn/through/"
+      ],
+      "mid": "55541a20ecca2241673041d2"
+    },
+    {
+      "id": "55541a20ecca2241673041c9",
+      "click_through_url": [
+        "http://www.ipinyou.com.cn/through/"
+      ],
+      "tracking_url": [
+        "http://www.ipinyou.com.cn/tracking/"
+      ],
+      "mid": "55541a20ecca2241673041c9"
+    },
+    {
+      "id": "55541a20ecca2241673041cc",
+      "click_through_url": [
+        "http://www.ipinyou.com.cn/through/"
+      ],
+      "tracking_url": [
+        "http://www.ipinyou.com.cn/tracking/"
+      ],
+      "mid": "55541a20ecca2241673041cc"
+    }
+  ]
+}

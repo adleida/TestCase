@@ -1,7 +1,7 @@
-[1;39m{
-  [0m[34;1m"is_test"[0m[1;39m: [0m[0;39m1[0m[1;39m,
-  [0m[34;1m"adm"[0m[1;39m: [0m[1;39m[][0m[1;39m,
-  [0m[34;1m"error"[0m[1;39m: [0m[1;39m{
-    [0m[34;1m"detail"[0m[1;39m: [0m[0;32m"json syntax error('resolution_w' is a required property)"[0m[1;39m
-  [1;39m}[0m[1;39m
-[1;39m}[0m
+{
+  "is_test": 1,
+  "adm": [],
+  "error": {
+    "detail": "json syntax error('resolution_w' is a required property)"
+  }
+}
